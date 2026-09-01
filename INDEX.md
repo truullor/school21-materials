@@ -12,6 +12,7 @@
 | DSB2 — Python syntax | `~/projects/DSB2_Syntax_Semantics_ID_1577669-1` | `materials/dsb2_spravochnik.md`, `materials/python_theory.md` | Справочник ex00–ex09 + базовый учебник Python. |
 | DSB3 — OOP | `~/projects/DSB3_OOP_skills_ID_1577670-1` | `materials/dsb3_spravochnik.md` (учебник), `materials/dsb3_audio.txt` (лекция), `materials/dsb3_oop_cheatsheet.md` (карманная), `materials/dsb3_samoproverka.md` (вопросы), `materials/dsb3_glossary.md` (термины), `materials/dsb3_plan_za_chas.md` (чеклист на ноуте), `materials/dsb3_errors.md` (ловушки), `materials/dsb3_raspisanie.md` (расписание дня), `materials/dsb3_sandbox.py` (песочница) | Полный набор для самостоятельной учёбы и выполнения проекта. |
 | DSB4 — Package mgmt | `~/projects/DSB4_Package_management_ID_1577671-1` | `materials/dsb4_spravochnik.md` (учебник), `materials/dsb4_audio.txt` (лекция для TTS), `materials/dsb4_temy_proslushivaniya.md` (что искать на YouTube/в озвучке) | Учебник: venv, модули/пакеты (многофайловость), pip/requirements, termgraph, BeautifulSoup, cProfile, PyTest. Слушать на работе/в дороге. |
+| DSB5 — Efficient code | `~/projects/DSB5_Efficient_code_practices_ID_1577672-1` | `materials/dsb5_spravochnik.md` (учебник), `materials/dsb5_benchmark_primeri.md` (примеры кода), `materials/dsb5_fishki.md` (фишки и советы) | List comprehensions, map, filter, reduce, Counter, генераторы, timeit, замер памяти. Бенчмарки скорости. |
 
 ## Общие материалы
 
